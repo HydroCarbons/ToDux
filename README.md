@@ -15,28 +15,40 @@ Sample desktop ToDo app using Electron, React, Redux, Babel, Webpack and Electro
 
 ## Development Environment
 
-``` npm run dev ```
+``` 
+npm run dev 
+```
 
 Or,
 
-``` npm run devbuild ```
+``` 
+npm run devbuild 
+```
 
 Or, 
 
-``` npm run devbuild && npm run package ```
+``` 
+npm run devbuild && npm run package 
+```
 
 
 ## Production Environment
 
-``` npm run prod ```
+``` 
+npm run prod 
+```
 
 Or,
 
-``` npm run prodbuild ```
+``` 
+npm run prodbuild 
+```
 
 Or, 
 
-``` npm run prodbuild && npm run package ``` 
+``` 
+npm run prodbuild && npm run package 
+``` 
 
 ## App screenshot
 ![Alt text](https://github.com/HydroCarbons/ToDux/blob/master/docs/app.png)
